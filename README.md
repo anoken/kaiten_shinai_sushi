@@ -1,5 +1,8 @@
 # kaiten_shinai_sushi
 
+
+![image](https://github.com/user-attachments/assets/6561e063-98bd-4ab6-8e5e-1828afd5e532)<br>
+
 ニコニコ動画：回転しないお寿司を作ってみた。<br>
 https://www.nicovideo.jp/watch/sm44505828<br>
 
