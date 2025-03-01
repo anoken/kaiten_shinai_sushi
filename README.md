@@ -1,4 +1,4 @@
-# kaiten_shinai_sushi
+# kaiten_shinai_sushi (回転しない寿司)
 
 
 ![image](https://github.com/user-attachments/assets/6561e063-98bd-4ab6-8e5e-1828afd5e532)<br>
