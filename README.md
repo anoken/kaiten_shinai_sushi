@@ -34,6 +34,9 @@ I2C信号でセンサーとRoverCのモータコントローラに接続して�
 回転しないお寿司を作ってみた。<br>
 https://www.nicovideo.jp/watch/sm44505828<br>
 
+### protopedia
+おうちで楽しめる回転しない寿司を作ってみた <br>
+https://protopedia.net/prototype/6746
 
 ## 材料
 
